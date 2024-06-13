@@ -66,12 +66,12 @@ Steps to Download and Install Visual Studio Code
 
    Extensions: 
 
-   Code Runner 
-   Dart
-   Flutter
-   Path Intellisense
-   Pylance 
-   Python
+   Code Runner. 
+   Dart.
+   Flutter.
+   Path Intellisense.
+   Pylance. 
+   Python.
 
    Git Bash as default Terminal
 
